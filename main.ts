@@ -1,1 +1,1 @@
-console.log('hi');
+import 'jsr:@std/dotenv/load';
